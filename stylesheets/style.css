@@ -41,8 +41,8 @@
         margin: auto
     }
     .socialMedia {
-        height: auto !important;
-        width: 50% !important;
+        height: auto;
+        width: 50%;
     }
     #db {
         max-width: 250px;
@@ -80,7 +80,7 @@
         min-width: 250px;
     }
     #card {
-        max-width: 150px;
+        max-width: 120px;
     }
 }
 
